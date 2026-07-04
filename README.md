@@ -19,6 +19,11 @@
   <a href="mailto:corentin.bontemps@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=corentinbtmps&label=Profile%20views&color=FF6F00&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/corentinbtmps?tab=followers"><img src="https://img.shields.io/github/followers/corentinbtmps?style=for-the-badge&color=FF6F00&labelColor=1c1c1c&logo=github&logoColor=white" alt="Followers" /></a>
+</p>
+
 ---
 
 ### 🚀 About me
@@ -77,31 +82,39 @@ I'm a **Lead Full-stack Developer** at the agency [Human To Computer](https://hu
 
 ### 📌 Featured Project
 
+<h3 align="center"><a href="https://laravel-vitals.com">🔦 Laravel Vitals</a></h3>
+
 <p align="center">
-  <a href="https://github.com/corentinbtmps/laravel-vitals">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=corentinbtmps&repo=laravel-vitals&theme=highcontrast&title_color=FF6F00&icon_color=FF6F00&hide_border=true" alt="laravel-vitals" />
-  </a>
+  <a href="https://github.com/corentinbtmps/laravel-vitals/stargazers"><img src="https://img.shields.io/github/stars/corentinbtmps/laravel-vitals?style=for-the-badge&color=FF6F00&labelColor=1c1c1c&logo=github&logoColor=white" alt="Stars" /></a>
+  <a href="https://github.com/corentinbtmps/laravel-vitals/commits"><img src="https://img.shields.io/github/last-commit/corentinbtmps/laravel-vitals?style=for-the-badge&color=FF6F00&labelColor=1c1c1c" alt="Last commit" /></a>
+  <img src="https://img.shields.io/github/license/corentinbtmps/laravel-vitals?style=for-the-badge&color=FF6F00&labelColor=1c1c1c" alt="License" />
 </p>
 
 > **[Laravel Vitals](https://laravel-vitals.com)** — Bring Lighthouse audits straight into your Laravel app: performance auditing, SEO checks, Real User Monitoring, code attribution (file:line) and backend telemetry — with actionable recommendations. Open source, MIT.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=corentinbtmps&show_icons=true&theme=highcontrast&title_color=FF6F00&icon_color=FF6F00&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corentinbtmps&layout=compact&theme=highcontrast&title_color=FF6F00&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=corentinbtmps&theme=highcontrast&hide_border=true&background=ffffff00&ring=FF6F00&fire=FF6F00&currStreakLabel=FF6F00&sideLabels=FF6F00" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=corentinbtmps&theme=flat&no-frame=true&column=7&margin-w=8" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=corentinbtmps&bg_color=ffffff00&color=FF6F00&line=FF6F00&point=FF2D20&area_color=FDAE4B&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://commit-history.com/api/badge/corentinbtmps" alt="Commit history" />
-</p>
+### 🗓️ Commit history
+
+<div align="center">
+  <a href="https://commit-history.com/corentinbtmps">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/corentinbtmps?theme=dark" />
+      <img alt="corentinbtmps's commit history" src="https://commit-history.com/embed/corentinbtmps" />
+    </picture>
+  </a>
+</div>
 
 <p align="center"><i>Let's build something fast, elegant, and built to last. 🧡</i></p>
